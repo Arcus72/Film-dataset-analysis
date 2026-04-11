@@ -1,0 +1,54 @@
+1. General overview:
+- Studio
+- "na podstawie"
+- Poprawa
+- Ile jest filmów w przyszłość
+- Uzupełnij: directors, creators, budget, boxoffice_in_usa, boxoffice_outise_usa, boxoffice_world
+
+
+- Uzupełnij: title, originalTitle, poster_url, year, duration, genres, production_country, desc_short, desc_long
+- Uzupełnij: URL
+
+- Uzupełnij: worldReleaseData worldPublicRelaseData, releaseDataPoland
+- Uzupełnij: vod
+- Uzupełnij: rate, rate_count, countWantToSee
+- Uzupełnij: critic_rate, critic_count
+
+
+2. Struktura plików
+
+3. Lepsze Readme + .gitignore
+Można jeszcze dodać, że napodstawie zebranych danych będzie budowany program do polecania
+
+---------------------------------------------------------------------------------
+
+4. Świat:
+- Pobranie wszelkich insrmacji
+- Podłączenie do filmów za pomocą id
+- Ogólna analiza
+- Struktura pliku analiza
+
+
+5. Aktor:
+- Pobranie wszelkich insrmacji
+- Podłączenie do filmów za pomocą id
+- Ogólna analiza
+- Struktura pliku analiza
+
+
+
+6. Eanrning Analysis:
+- Dodaj "short film - no short film"
+- is vod - is not vod
+- Seasonality of Premieres
+
+
+- director rating
+- director score
+- creator rating
+- creator score
+- Is sequel/remake
+- is based on?
+- Cinematic universe (world)
+- Ocena aktora
+- Świat ocena/popularność
